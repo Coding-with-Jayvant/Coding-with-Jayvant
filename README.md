@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello, I'm Jayavant Warkhade..👋
 <br>                  A passionate aspiring Data Scientist<br>
 <br>🌱 I’m currently learning Python, Machine Learning, SQL & Data Science concept<br>
 <br>🔭 I’m currently working on Machine Learning<br>
