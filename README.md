@@ -1,7 +1,7 @@
 # Hello👋, I'm Jayavant Warkhade..
 <br>A passionate aspiring Data Scientist<br>
-<br>🌱 I’m currently learning Python, Machine Learning, SQL & Data Science concept<br>
-<br>🔭 I’m currently working on Machine Learning<br>
+🌱 I’m currently learning Python, Machine Learning, SQL & Data Science concept<br>
+🔭 I’m currently working on Machine Learning<br>
 👨‍💻 All of my projects are available at https://github.com/Coding-with-Jayavant?tab=repositories
 <br>💬 Ask me about python<br>
 <br>📫 How to reach me jayavantwarkhadeit@sanjivanicoe.org.in
