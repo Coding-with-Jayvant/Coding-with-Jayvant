@@ -1,5 +1,5 @@
 # Hello👋, I'm Jayavant Warkhade..
-<br>A passionate aspiring Data Scientist<br>
+<br>A Passionate Aspiring Data Scientist<br>
 🌱 I’m currently learning Python, Machine Learning, SQL & Data Science concept<br>
 🔭 I’m currently working on Machine Learning<br>
 👨‍💻 All of my projects are available at https://github.com/Coding-with-Jayavant?tab=repositories
